@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.Rproj.user
+.DS_Store
+.gitattributes
+.htaccess
+website.Rproj

@@ -1,0 +1,60 @@
+- title: Breda University af Applied Sciences
+  name: Institute-1
+  subtitle: 
+  img: BUAS-Logo.png
+  thumbnail: BUAS-Logo.png
+
+- title: Vrije Universiteit
+  name: Institute-2
+  subtitle:
+  img: VU-Logo.png
+  thumbnail: VU-Logo.png
+  alt: Vrije Universiteit
+  topic: Vrije Universiteit
+  
+- title: Universiteit van Amsterdam
+  name: Institute-3
+  subtitle: 
+  img: UvA-Logo.png
+  thumbnail: UvA-Logo.png
+  alt: Universiteit van Amsterdam
+  topic: Universiteit van Amsterdam
+
+- title: Radboud Universiteit
+  name: Institute-4
+  subtitle: 
+  img: Radboud-Logo.png
+  thumbnail: Radboud-Logo.png
+  
+- title: TU Delft
+  name: Institute-5
+  subtitle: 
+  img: Delft-Logo.png
+  thumbnail: Delft-Logo.png
+
+- title: Maastricht University
+  name: Institute-6
+  subtitle: 
+  img: Maastricht-Logo.png
+  thumbnail: Maastricht-Logo.png
+  
+# - title: Survival of the Greenest
+#   name: Challenge-4
+#   subtitle:
+#   img: greenest.jpg
+#   thumbnail: greenest-thumbnail.jpg
+#   alt: Survival of the Greenest
+#   topic: Survival of the Greenest
+#   description: In the current climate crisis, we have to learn to respect the planetary boundaries in order to preserve our own species and the ecosystem as well. To evolve such an environmentally-friendly "green mindset", it is important that more people commit to sustainable behaviour in the future. This challenge is about finding ways to do so in terms of "episodic future thinking", i.e., “pre-living” a desirable, sustainable, climate-friendly future. Such future thinking would not be limited to the individual but may be extended to the collective level as well. The challenge may be met by designing a behavioral experiment identifying the most favourable future thinking conditions under which participants act sustainably – individually or collectively. It may also be met by cognitive modelling. The challenges are free to invoke variables (and covariates) that they deem relevant for efficacious future thinking and, eventually, for establishing a “green mindset”.
+#   supervisors: The challenge supervisors are Annette Hohenberger and Dibyashree Nahak.
+  
+# - title: Modeling Human Decision Making of Meat Consumption 
+#   name: Challenge-6
+#   subtitle: 
+#   img: decision-making.jpg
+#   thumbnail: decision-making-thumbnail.jpg
+#   alt: Modeling Human Decision Making of Meat Consumption
+#   topic: Modeling Human Decision Making of Meat Consumption
+#   description: Besides obvious contributors to greenhouse gas emissions like the transport system or the energy sector, livestock production significantly contributes to greenhouse gas emissions. Total emissions from global livestock contribute to 14.5% of greenhouse gas emissions worldwide. Hence, considering the aspect of greenhouse gas emissions, a decision we can make every day for or against climate change is choosing a meat or vegetarian meal. In this Thinkathon we want to address the question of how meat consumption in a society could be influenced. How strongly are we guided by the behavior of the people around us, the increasing number of extreme weather events or protests and information campaigns? And is it possible to change the consumption behavior with political interventions like higher taxes on meat? We want to get to the bottom of the questions with ideas from game theory. Those basic ideas can be modeled with a cellular automaton, which is a computer simulation tool based on certain rules and relationships to our neighbors or peers. The basics on programming are going to be explained in a tutorial, so previous knowledge is not required.
+#   supervisors: The challenge supervisors are Carolin Grumbach, Friedemann Liebaug, Gunnar Niebaum, Franziska Ossenbrink, Femke Reurik, and Frank Hilker.
+  
